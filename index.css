@@ -1,0 +1,25 @@
+.logo {
+    border-radius: 50px;
+    
+}
+    .menu{
+        display:flex;
+        background: #fce3e3;
+        align-items: center;
+        align-content: space-around;
+    }
+
+    .nav ul{
+        display: flex;
+        gap: 42px;
+    }
+
+    .nav ul li{
+        list-style: none;
+    }
+
+    .nav ul li a {
+        text-decoration: none;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color:#414141;
+    }
